@@ -1,0 +1,10 @@
+#+STARTUP: latexpreview
+#+STARTUP: inlineimages
+#+TITLE: Configuration Notes
+* Requirement
+In order to serve the site without errors or warnings, install the follow two prerequisities
+#+begin_src bash
+  brew install imagemagick
+  brew install mermaid-cli
+#+end_src
+
