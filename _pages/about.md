@@ -19,9 +19,9 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my home page!
 
-I am an Applied Scientist at [Microsoft](https://www.microsoft.com). Before joinning Microsfot, I was a Data Scientist at [Apple News](https://www.apple.com/apple-news/).
+I am an Applied Scientist at [Microsoft](https://www.microsoft.com). Before joinning Microsoft, I was a Data Scientist at [Apple News](https://www.apple.com/apple-news/).
 
-I did my Ph.D candidate at [School of Statistics, University of Minnesota, Twin Cities](https://cla.umn.edu/statistics)  with Professor [Charles Doss](http://users.stat.umn.edu/~cdoss/) on research problems related to Nonparametric statistics, Causal Inference and Machine Learning.
+I did my Ph.D at [School of Statistics, University of Minnesota, Twin Cities](https://cla.umn.edu/statistics)  with Professor [Charles Doss](http://users.stat.umn.edu/~cdoss/) on research problems related to Nonparametric statistics, Causal Inference and Machine Learning.
 
 
 
