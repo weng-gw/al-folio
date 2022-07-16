@@ -1,0 +1,25 @@
+#+STARTUP: latexpreview
+#+STARTUP: inlineimages
+#+TITLE: Building personal website with Jekyll and al-folio
+* About
+This is Guangwei Weng's personal Github page. The site is built using [[https://jekyllrb.com][Jekyll]] with the [[https://github.com/alshedivat/al-folio][al-folio]] theme, a simple Jekyll theme for academics.
+
+
+* Configuration under MacOS
+
+** Install Ruby and Jekyll
+Please follow the instructions here [[https://jekyllrb.com/docs/installation/]].
+
+** Fork al-folio
+On Github, fork  [[https://github.com/alshedivat/al-folio][al-folio]] and change the repo name to "<your_user_name>.github.io". Then you will be able to see "your" website by entering "<your_user_name>.github.io" in your browser.
+
+** Extra configuration for al-folio them
+In order to serve the website locally, you need some extra configuration.
+
+- Add =gem 'webrick'= to the =Gemfile=.
+- Use following command in terminal to install two dependencies.
+  #+begin_src bash
+    brew install imagemagick
+    brew install mermaid-cli
+  #+end_src
+
