@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: # Applied Scientist@<a href='https://www.microsoft.com/en-us/?ql=3'> Microsoft</a>
 
@@ -23,6 +23,7 @@ I am an Applied Scientist at [Microsoft](https://www.microsoft.com). Before join
 
 I did my Ph.D at [School of Statistics, University of Minnesota, Twin Cities](https://cla.umn.edu/statistics)  with Professor [Charles Doss](http://users.stat.umn.edu/~cdoss/) on research problems related to Nonparametric statistics, Causal Inference and Machine Learning.
 
+In my work, I am interested in problems related to Causal Machine Learning, Natural Language Processing and Recommender System.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->

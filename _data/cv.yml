@@ -52,10 +52,10 @@
   contents:
     - title: <a href="https://cran.r-project.org/web/packages/lsbs/index.html">lsbs</a>
       year: 2018
-      description: An R packge implementing bandwidth selection for multivariate level sets and highest density regions proposed in Doss and Weng (2018) (<a href="https://arxiv.org/abs/1806.00731"> arXiv:1806.00731 </a>).
-    - title: <a href="https://cran.r-project.org/web/packages/DRDRtest/index.html">drdrtest</a>
+      description: An R packge implementing bandwidth selection for multivariate level sets and highest density regions proposed in Doss and Weng (2018) <a href="https://arxiv.org/abs/1806.00731">arXiv:1806.00731</a>.
+    - title: <a href="https://cran.r-project.org/web/packages/DRDRtest/index.html">DRDRtest</a>
       year: 2021
-      description: Implement the statistical test proposed in Weng et al. (2021) (<a href="https://arxiv.org/abs/2202.03369"> arXiv:2202.03369  </a>)
+      description: Implement the statistical test proposed in Weng et al. (2021) <a href="https://arxiv.org/abs/2202.03369"> arXiv:2202.03369</a>
         to test whether the average treatment effect curve is constant and whether a discrete covariate is a significant effect modifier.
 
 # - title: Honors and Awards
@@ -81,7 +81,8 @@
 #         - Description 1.
 #         - Description 2.
 
-- title: Other Interests
+- title: Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Gunpla
+    - <u>Research:</u> Causal Machin Learning, Natutral Language Processing, Recommender System
+    - <u>Hobbies:</u> Gunpla, Coffee, Hiking, Rock climbing

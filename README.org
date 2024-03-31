@@ -16,7 +16,7 @@ On Github, fork  [[https://github.com/alshedivat/al-folio][al-folio]] and change
 ** Extra configuration for al-folio them
 In order to serve the website locally, you need some extra configuration.
 
-- Add =gem 'webrick'= to the =Gemfile=.
+- Add =gem 'webrick'= to the Gemfile.
 - Use following command in terminal to install two dependencies.
   #+begin_src bash
     brew install imagemagick
